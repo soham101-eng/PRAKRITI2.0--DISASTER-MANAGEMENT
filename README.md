@@ -1,6 +1,6 @@
-# PRAKRITI--DISASTER-MANAGEMENT
+# PRAKRITI2.0--DISASTER-MANAGEMENT
 A resilient, AI-powered environmental monitoring network that provides early detection, localized intelligence, and actionable alerts for floods, forest fires, pollution events, and other environmental hazards common in India, enabling authorities and communities to shift from reactive disaster response to proactive risk prevention.
-# PRAKRITI — Environmental Intelligence Network
+# PRAKRITI2.0 — Environmental Intelligence Network
 
 > A distributed, solar-powered, edge-AI sensor network that detects floods, fires, pollution, landslides, industrial leaks, and water-quality degradation locally — and gets measurably more trustworthy at each site over time.
 

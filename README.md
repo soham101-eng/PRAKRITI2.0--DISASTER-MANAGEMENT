@@ -143,10 +143,8 @@ Power: solar panel + charge controller + Li-ion battery + voltage regulation, wi
 
 ## Repository Structure
 
-> Suggested layout — adjust to match what's actually pushed.
-
 ```
-PRAKRITI-SIH26178/
+PRAKRITI2.0-SIH26178/
 ├── firmware/
 │   ├── node1-hydro-met/        # ESP32-S3 + sensors + LoRa SX1278
 │   └── node4-gateway/          # LoRa receiver, test build (Serial stand-in backend)
@@ -172,9 +170,10 @@ PRAKRITI-SIH26178/
 ## Hackathon Demo Scope (36 Hours)
 
 Team split across the 36-hour build window:
-- **2** — Firmware (Nodes 1 & 4)
+- **1** — Firmware (Nodes 1 & 4)
 - **1** — TinyML pipeline
-- **2** — Backend + dashboard
+- **1** — Backend
+- **1** — Dashboard
 - **1** — Hardware + enclosure
 - **1** — Data collection & validation
 
@@ -226,7 +225,7 @@ Team split across the 36-hour build window:
 
 ## Team
 
-**PRAKRITI** — Smart India Hackathon 2026, Problem Statement 26178 (7 members)
+**PRAKRITI** — Smart India Hackathon 2026, Problem Statement 26178 (6 members)
 
 ## License
 

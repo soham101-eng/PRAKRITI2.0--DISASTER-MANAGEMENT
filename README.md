@@ -230,6 +230,8 @@ Team split across the 36-hour build window:
 
 ## License
 
+MIT License
+
 
 
 ## Acknowledgments
